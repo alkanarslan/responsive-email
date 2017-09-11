@@ -1,5 +1,7 @@
 # Responsive email template
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/philwareham/responsive-email.svg)](https://greenkeeper.io/)
+
 A table-based (but responsive) email template. Has [MailChimp](https://mailchimp.com) merge tags in place. Based on the following work:
 
 * [From Monitor To Mobile: Optimizing Email Newsletters With CSS](https://www.smashingmagazine.com/2011/08/from-monitor-to-mobile-optimizing-email-newsletters-with-css/)
